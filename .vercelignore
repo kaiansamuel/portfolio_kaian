@@ -1,0 +1,11 @@
+AGENTS.md
+.git/
+.vercel/
+.gitignore
+.vercelignore
+vercel.json
+.agents/
+.codex/
+.aws/
+assets/_wd3/
+assets/elegant-software-99.aura.build/index.html
